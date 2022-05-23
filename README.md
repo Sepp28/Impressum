@@ -1,4 +1,4 @@
-# Impressum
+# Impressum/Imprint
 
 Verantwortlich für GitHub-Inhalte unter dem Benutzerkonto **[Sepp28](https://github.com/Sepp28)**:
 
