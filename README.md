@@ -12,7 +12,7 @@ Almenrauschweg 6B <br>
 **E-Mail: Sepp28K@gmail.com**
 
 ### Urheberrecht
-GitHub-Inhalte unter dem Benutzerkonto **[johsteffens](https://github.com/Sepp28)** unterliegen deutschem, 
+GitHub-Inhalte unter dem Benutzerkonto **[Sepp28](https://github.com/Sepp28)** unterliegen deutschem, 
 US- bzw. internationalem Urheberrecht. 
 Soweit nicht anders angegeben, verbleiben alle Rechte beim Autor.
 Die Nutzung der Inhalte einzelner Repositories wird ggf. durch eine oder mehrere Lizenzen geregelt, 
